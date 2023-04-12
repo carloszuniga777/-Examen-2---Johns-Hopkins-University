@@ -6,3 +6,12 @@ html {
 main{
    margin-top: 100px;
 }
+
+header div{
+  background: #7ff3ff;
+} 
+
+main section{
+  background: #9dd1ff;
+  padding: 12px
+}
